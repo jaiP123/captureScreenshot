@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13722" started-at="2016-08-20T07:02:36Z" finished-at="2016-08-20T07:02:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13722" started-at="2016-08-20T07:02:36Z" finished-at="2016-08-20T07:02:50Z">
+      <class name="UserAgentSwitchingSemo">
+        <test-method status="PASS" signature="testMotoGSiteWithMobieUA()[pri:0, instance:UserAgentSwitchingSemo@5a01ccaa]" name="testMotoGSiteWithMobieUA" duration-ms="13703" started-at="2016-08-20T12:32:36Z" finished-at="2016-08-20T12:32:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMotoGSiteWithMobieUA -->
+      </class> <!-- UserAgentSwitchingSemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
